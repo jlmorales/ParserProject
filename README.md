@@ -17,6 +17,7 @@ date : to sort by date
 
 java -jar C:\Users\Jose\Documents\prep\parser\out\artifacts\parser_jar\parser.jar last C:\\Users\\Jose\\Documents\\prep\\parser\\src\\inputfile1.txt
 
-I included inputfile1.txt and inputfile2.txt which I used to test format 1 and format 2
+I included inputfile1.txt and inputfile2.txt which I used to test format 1 and format 2 
+you can find it in the src folder
 
 Output is outputed at a default location in the project folder where you clone thing repo. i.e. /.../project/output.tx
